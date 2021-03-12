@@ -2,7 +2,9 @@ import react from 'react'
 
 class Introduction extends react.Component {
     render(){
-        return <h1>Welcome to Visual CSS</h1>
+        return(
+            <h1>Welcome to Visual CSS</h1>
+        ) 
     }
 }
 

@@ -1,0 +1,10 @@
+.class-container{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    color: white;
+    background: cadetblue;
+    padding: 1em;
+    margin: 150px;
+    border-radius: 5%;
+}
